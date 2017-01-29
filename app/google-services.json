@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1081935028622",
+    "firebase_url": "https://yayiktereyagi-cfef2.firebaseio.com",
+    "project_id": "yayiktereyagi-cfef2",
+    "storage_bucket": "yayiktereyagi-cfef2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081935028622:android:9d242482af6330dd",
+        "android_client_info": {
+          "package_name": "com.yayiktereyagi.www.yayiktereyagi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081935028622-n7p0q5eubbaie8nrq23rmdu3bqtbclvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWh2EZKNXnoE2sWKw7luByKyasHvIJkuE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
